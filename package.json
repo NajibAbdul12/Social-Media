@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@material-ui/core": "^4.11.3",
+    "react-router": "^5.2.0",
     "smooth-scroll": "^16.1.3"
   }
 }
